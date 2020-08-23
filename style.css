@@ -1,0 +1,42 @@
+.wcmsg{
+	font-family:Times New Roman;
+	font-size:50px;
+	color:white;
+	width:700px00px;
+	text-align:center;
+	background-color:black;
+	display:block;
+	margin-top: 10px;
+}
+
+.ddl{
+	font-family:Times New Roman;
+	font-size:50px;
+	color:red;
+	width:700px;
+	text-align:center;
+	background-color:black;
+	display:block;
+	margin-top: 10px;
+	border:1px solid pink;
+}
+
+body{
+	background-image:url("food.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+
+label{
+	text-align: left;
+	width:200px;
+	padding-left: 20px;
+	display:inline-block;
+}
+
+input{
+	size:270px;
+	width:270px;
+	height:30px;
+}
